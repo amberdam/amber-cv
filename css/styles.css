@@ -5,24 +5,30 @@
 
 /* Styles for the body */
 
-body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+body {font-family: retiro-std-24pt, sans-serif;
+font-weight: 700;
+font-style: normal;
+color: #202030;
+background-color: #FA9884;
+}
+.myname {color: #FBD7D0;
+font-family: fino-sans, sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #A6774E;
+    background-color: #7A6966;
 }
 
 .resume-main {
-	background-color: #D9D9D9;
+	background-color: #FBD7D0;
 }
 
 .resume-aside {
-	background-color: #D99F59;
+	background-color: #CAA7A2;
 }
 
 /* Styles for lists in the document */
